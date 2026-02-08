@@ -27,8 +27,7 @@ const contactInfo = [
 
 const socialLinks = [
   { icon: Facebook, href: 'https://web.facebook.com/profile.php?id=61583058193682#', label: 'Facebook' },
-  { icon: Instagram, href: '#', label: 'Instagram' },
-  { icon: MessageCircle, href: '#', label: 'Messenger' },
+  { icon: MessageCircle, href: 'https://web.facebook.com/profile.php?id=61583058193682#', label: 'Messenger' },
 ];
 
 export function ContactSection() {
